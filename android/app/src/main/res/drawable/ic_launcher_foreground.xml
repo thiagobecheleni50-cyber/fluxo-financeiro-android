@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Clean minimal wallet + flow arc emblem -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M33,40 C33,35.6 36.6,32 41,32 L68,32 C72.4,32 76,35.6 76,40 L76,44 L66,44 C61.6,44 58,47.6 58,52 L58,56 C58,60.4 61.6,64 66,64 L76,64 L76,68 C76,72.4 72.4,76 68,76 L41,76 C36.6,76 33,72.4 33,68 Z" />
+    <path
+        android:fillColor="#B5FFF6"
+        android:pathData="M66,48 L77,48 C78.7,48 80,49.3 80,51 L80,57 C80,58.7 78.7,60 77,60 L66,60 C63.8,60 62,58.2 62,56 L62,52 C62,49.8 63.8,48 66,48 Z" />
+    <path
+        android:fillColor="#0A6665"
+        android:pathData="M67.5,54 m-2.5,0 a2.5,2.5 0 1,0 5,0 a2.5,2.5 0 1,0 -5,0" />
+</vector>
